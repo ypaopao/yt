@@ -1,0 +1,14 @@
+.description p{
+    width: 300px;
+    overflow: hidden;text-overflow: ellipsis; white-space: nowrap;
+}
+.search{
+    width: 100%;
+    padding: 20px;
+    z-index: 100;
+}
+.search>input{
+    width: 300px;
+    float: right;
+    margin-bottom: 20px;
+}
